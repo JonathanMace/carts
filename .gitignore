@@ -1,3 +1,8 @@
+docker
+.project
+.classpath
+.settings
+
 # Logs
 logs
 *.log
